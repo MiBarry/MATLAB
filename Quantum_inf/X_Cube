@@ -1,0 +1,8 @@
+function y = X_Cube
+X = [ 1 0;
+      0 1;
+      1/sqrt(2) 1/sqrt(2);
+      1/sqrt(2) -1/sqrt(2);
+      1/sqrt(2) -1i/sqrt(2);
+      1/sqrt(2) 1i/sqrt(2) ];
+y = X;
